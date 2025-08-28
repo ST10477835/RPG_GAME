@@ -143,6 +143,9 @@ This keeps:
 - The error in a fenced code block.
 - Steps as numbered lists for clarity.
 
+📂 Project Structure
+
+> This project is a single-file implementation containing multiple top-level classes in one source file.
 ```sql
 src/
 └── rpg_game/
