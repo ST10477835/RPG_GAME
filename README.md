@@ -69,7 +69,7 @@ Attack
 
 Heal
 
-Run Away
+Run Away  
 ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈
 
 1
@@ -117,3 +117,34 @@ Click Run.
 src/
 └── rpg_game/
     └── RPG_GAME.java   # Contains: RPG_GAME (main), Character (abstract), Enemy, Player
+
+## 🛠️ Troubleshooting
+
+If you see the error:
+
+Error: Could not find or load main class rpg_game.RPG_GAME
+
+make sure you:
+
+1. Run from the directory **above** `rpg_game/`.
+2. Use the exact package name `rpg_game`.
+3. Compile successfully before running.
+
+### Run in NetBeans (or any IDE)
+
+1. Create/open a Java project and ensure the **package** is `rpg_game`.  
+2. Place `RPG_GAME.java` under `src/rpg_game/`.  
+3. Set `RPG_GAME` as the **Main Class**.  
+4. Click **Run**.
+
+This keeps:
+
+The main heading for troubleshooting.
+
+The error in a fenced code block.
+
+Steps as numbered lists for clarity.
+
+IDE instructions under a subheading.
+
+Do you want me to also add a command-line version in the same section for clarity?
