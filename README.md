@@ -117,7 +117,7 @@ Click Run.
 src/
 └── rpg_game/
     └── RPG_GAME.java   # Contains: RPG_GAME (main), Character (abstract), Enemy, Player
-
+```
 ## 🛠️ Troubleshooting
 
 If you see the error:
