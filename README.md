@@ -48,6 +48,7 @@ Enemy names are chosen at random (e.g., **Varkon the Cruel**, **Xalther the Wick
 
 ## 🖥️ Example Combat
 
+## 🖥️ Sample Gameplay
 ============================================================
 You have encountered a wild, Varkon the Cruel
 Your Stats Enemy Stats
@@ -73,7 +74,7 @@ Run Away
 
 1
 You have successfully attacked Varkon!
--1
+-10hp
 
 ---
 
