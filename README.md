@@ -139,8 +139,8 @@ make sure you:
 
 This keeps:
 
--The main heading for troubleshooting.
--The error in a fenced code block.
--Steps as numbered lists for clarity.
+- The main heading for troubleshooting.
+- The error in a fenced code block.
+- Steps as numbered lists for clarity.
 
 IDE instructions under a subheading.
