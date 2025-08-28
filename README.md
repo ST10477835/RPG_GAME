@@ -143,4 +143,9 @@ This keeps:
 - The error in a fenced code block.
 - Steps as numbered lists for clarity.
 
-IDE instructions under a subheading.
+```sql
+src/
+└── rpg_game/
+    └── RPG_GAME.java   # Contains: RPG_GAME (main), Character (abstract), Enemy, Player
+```
+
